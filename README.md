@@ -19,10 +19,10 @@ The below table must contain the details of the repositories you will create, fi
 
 
 |  | Project's Name | Description    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+|:--:|:----------:|:--------------:|:--------------:|
+| 1 |simple store sales review    |simple store sales review is a smalll sample of data helping us review products and their performance on the market|https://github.com/arkularyea/simple-store-sales-review.git |
+| 2 |text encryptor|an apploication that allows you to encrypt text from A-Z|https://github.com/arkularyea/text-encryptor.git|
+| 3 |ECONOMIC ANALYSIS|CALCULATING TOTAL PROFIT,TOTAL COST AND THE PRICES OF RETAIL AND WHOLESALE PRODUCTS OF THE FIRM|https://github.com/arkularyea/economic-analysis.git|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
